@@ -42,12 +42,6 @@
 
 ---
 
-### 🚀 Projects
-- 🏦 **Bank Management System** – Built with Python & SQL (OOP-based)  
-- ⚓ **Port Management System (System Analysis)** – Designed DFDs, ERDs & UML diagrams for a full system model  
-
----
-
 ### 🤝 Soft Skills
 ✨ Teamwork & Collaboration  
 ✨ Problem Solving  
