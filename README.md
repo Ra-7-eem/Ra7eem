@@ -12,4 +12,44 @@
 ### 🌟 About Me
 - 🎯 Focused on **Backend Development with .NET**  
 - 📚 Currently learning **System Design & Clean Architecture**  
-- 🛠 Love solving **real-world p**
+- 🛠 Love solving **real-world problems** with code  
+- ✨ Open for **internships & collaborations**
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,js,git,github,postgresql,mysql" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raheem7&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raheem7&theme=radical" height="180" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 [Port Management System (System Analysis)](https://github.com/your-repo)  
+- 🔹 [My Portfolio Website](https://github.com/your-repo)  
+- 🔹 [Open Source Contributions](https://github.com/your-repo)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Raheem](https://github.com/Raheem7)
