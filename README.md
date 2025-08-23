@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey 👋, I'm Raheem Darweesh</h1>
-<h3 align="center">💻 Junior .NET Backend Developer | Lifelong Learner 🚀</h3>
+<h3 align="center">💻 .NET Backend Developer | Lifelong Learner 🚀</h3>
 
 <!-- Typing SVG -->
 <p align="center">
